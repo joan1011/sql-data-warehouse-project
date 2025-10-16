@@ -1,7 +1,7 @@
 /*
 ====================================================================================================
     DDL Script:         Create Silver Layer Tables
-    Author:             [Anand Reddy Jonnalagadda]
+    Author:             Anand Reddy Jonnalagadda
     Creation Date:      2025-10-16
 
     Description:
